@@ -38,11 +38,11 @@
 }
 
 .card-list-item.player{
-    margin-left: calc(2vw - 100px);
+    margin-left: calc(2vw - 90px);
 }
 
 .card-list-item.opponent{
-    margin-right: calc(2vw - 100px);
+    margin-right: calc(2vw - 90px);
     direction: ltr; 
 }
 
